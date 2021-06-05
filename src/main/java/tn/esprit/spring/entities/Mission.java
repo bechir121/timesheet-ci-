@@ -17,6 +17,7 @@ public class Mission implements Serializable {
 
 	// Auto Increment 
 	//ajout commentaire git 
+	//commentaire entreprise-mangement branch
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	private int id;
